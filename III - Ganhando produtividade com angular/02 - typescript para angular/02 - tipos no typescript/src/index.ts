@@ -12,7 +12,26 @@ let indefinido:undefined = undefined
 
 //tipos abrangentes: any void
 let vazio:void
-let retornoView:any = true // pode retornar qualquer coisa 
+let retornoView: any = true // pode retornar qualquer coisa
+
+//Objeto - sem previsibilidade
+let produto: object = {
+    nome: 'Algo',
+    preco: 1,
+    quantidade:1
+};
+
+type ProdutoLoja = {
+    nome: string;
+    preco: number;
+    unidades: number;
+}
+
+let meuProdudo: ProdutoLoja = {
+    nome: 'Produto Tipado',
+    preco: 1,
+    unidades: 1
+} 
  
 
 
