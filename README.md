@@ -49,7 +49,7 @@
 
  >Criando seu curriculo online com Github Pages 
 
-- [  ]  Exercite sua lpógica com desafios  de código em javaScript 3/5
+- [  ]  Exercite sua lógica com desafios  de código em javaScript 3/5
 
 - [  ]  Ganhando produtividade com a plataforma Angular 0/8
 
