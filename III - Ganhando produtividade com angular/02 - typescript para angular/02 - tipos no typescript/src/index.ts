@@ -14,13 +14,13 @@ let indefinido:undefined = undefined
 let vazio:void
 let retornoView: any = true // pode retornar qualquer coisa
 
-//Objeto - sem previsibilidade
+//Objeto - sem previsibilidade.
 let produto: object = {
     nome: 'Algo',
     preco: 1,
     quantidade:1
 };
-
+// Objeto tipado - com previsibilidade.
 type ProdutoLoja = {
     nome: string;
     preco: number;
@@ -33,7 +33,10 @@ let meuProdudo: ProdutoLoja = {
     unidades: 1
 } 
  
+// Arrays
 
+let dados: string[] = ['dado1', 'dado2', 'dado3']
+let dados2: Array<string> = ['dado1','dado2','dado3'] 
 
 
 
