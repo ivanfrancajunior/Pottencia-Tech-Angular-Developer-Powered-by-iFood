@@ -41,7 +41,16 @@ let dados2: Array<string> = ['dado1', 'dado2', 'dado3']
 let infos:(string|number)[] = ['felipe','cor', 1, 97]
 
 //Tupla 
-let boleto:[string,number,number] = ['água', 199.89, 35513253447535]
+let boleto: [string, number, number] = ['água', 199.89, 35513253447535]
+
+
+// Métodos de array - se vc ja sabe, ja sabe ok?! 
+dados.map(dado => console.log(dado))
+
+//Date
+let aniversario: Date = new Date('2022-12-01 05:00')
+console.log(aniversario.toString())
+
 
 
 
