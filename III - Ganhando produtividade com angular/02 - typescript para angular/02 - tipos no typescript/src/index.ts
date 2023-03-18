@@ -34,9 +34,13 @@ let meuProdudo: ProdutoLoja = {
 } 
  
 // Arrays
-
 let dados: string[] = ['dado1', 'dado2', 'dado3']
-let dados2: Array<string> = ['dado1','dado2','dado3'] 
+let dados2: Array<string> = ['dado1', 'dado2', 'dado3'] 
+
+// Array multi type
+let infos:(string|number)[] = ['felipe','cor', 1, 97]
+
+
 
 
 
