@@ -40,7 +40,8 @@ let dados2: Array<string> = ['dado1', 'dado2', 'dado3']
 // Array multi type
 let infos:(string|number)[] = ['felipe','cor', 1, 97]
 
-
+//Tupla 
+let boleto:[string,number,number] = ['água', 199.89, 35513253447535]
 
 
 
