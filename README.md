@@ -30,7 +30,7 @@
  >Aula inaugural - Potência Tech Angular Developer - Powered by iFood
 
 
-- [ ✔ ]  Primeiras páginas interativas com Javascript - 9/10
+- [ ✔ ]  Primeiras páginas interativas com Javascript - 10/10
  > Primeiro passos com JavaScript
 
  > Conhecendo Funçoes JavaSript
@@ -49,7 +49,7 @@
 
  >Criando seu curriculo online com Github Pages 
 
-- [  ]  Exercite sua lógica com desafios  de código em javaScript 3/5
+- [  ]  Exercite sua lógica com desafios  de código em javaScript 5/5
 
 - [  ]  Ganhando produtividade com a plataforma Angular 0/8
 
